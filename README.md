@@ -1,4 +1,10 @@
 
+
+這邊完全亂碼，趕著下班懶得處理。
+
+可以先閱讀這裡：https://wuyiulin.blogspot.com/2022/05/telegrambot-python.html#more
+
+
 首先先安裝一下本文所使用的套件：
 
 pip3 install telegram
